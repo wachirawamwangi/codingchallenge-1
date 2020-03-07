@@ -1,0 +1,46 @@
+
+/* body {
+  background-color: red;
+} */
+body > .grid {
+  height: 70vh;
+}
+.image {
+  margin-top: -100px;
+}
+.column {
+  max-width: 50vw;
+}
+div input {
+    margin-bottom: 1rem;
+}
+.ui.segment.noDisplay{
+    display: none;
+}
+.ui.horizontal.divider.header.noDisplay {
+    display: none;
+}
+#emailDiv .input {
+  width: 90%;
+}
+#emailDiv .button {
+  min-width: 20%;
+}
+
+#passwordDiv .input {
+  width: 90%;
+}
+
+#passwordDiv .button {
+  min-width: 20%;
+}
+.ui.segment {
+  margin-top: 0rem;
+}
+progress{
+  margin-bottom: -0.25rem;
+  width: 100%;
+}
+.progressBarGreen {
+    background-color: green;
+}
